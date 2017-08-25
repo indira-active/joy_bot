@@ -1,0 +1,18 @@
+{
+  "name": "smooch",
+  "version": "1.0.0",
+  "description": "smooch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "botkit": "^0.5.7",
+    "express": "^4.15.4",
+    "jsonwebtoken": "^7.4.3",
+    "smooch-core": "^4.3.0"
+  }
+}
